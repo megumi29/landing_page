@@ -1,0 +1,43 @@
+/* base styles ----------------*/
+img{
+    width: 100%;
+}
+li{
+    list-style: none;
+}
+
+
+/* layout styles ----------------*/
+.header{
+
+}
+.features{
+
+}
+.products{
+
+}
+.footer{
+
+}
+/* block styles ----------------*/
+/* HEADER*/
+.header_logo{
+    width: 40%;
+}
+.header_nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+.header_text{
+    width: 45%;
+    font-family: Futura;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.5px;
+}
+/* FEATURES*/
+/* PRODUCTS*/
+/* FOOTER*/
