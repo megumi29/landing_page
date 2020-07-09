@@ -33,6 +33,9 @@ span {
   justify-content: space-between;
 }
 .header_text {
+  z-index: 1;
+  top: 20px;
+  position: relative;
   width: 45%;
   font-family: Futura;
   font-style: normal;
