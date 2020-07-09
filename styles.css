@@ -17,6 +17,11 @@ h3 {
   color: #8400ff;
 }
 
+p {
+  font-family: Futura;
+  font-style: normal;
+}
+
 /* layout styles ----------------*/
 .header_background {
   z-index: -1;
@@ -43,6 +48,8 @@ h3 {
   width: 25%;
 }
 .header_nav ul {
+  font-family: Futura;
+  font-style: normal;
   display: flex;
   justify-content: space-between;
 }
